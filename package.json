@@ -1,6 +1,6 @@
 {
 	"name": "bst-nodejs",
-	"version": "0.0.126",
+	"version": "0.0.127",
 	"description": "Node.JS implementation of Binary Search Tree with most of the hotly debated utility methods that might be asked in interviews.",
 	"main": "app.js",
 	"scripts": {
