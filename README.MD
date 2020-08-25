@@ -3,7 +3,7 @@
 A Library for BST built with Javascript
 
 **Github:**<br>
-`https://github.com/dibyajyotiron/bst-nodejs`
+`https://github.com/dibyajyotiron/bst-nodejs`<br>
 Feel free to modify the code and create pr if you find any bugs or want to implement new methods or add docs.
 
 ## Installation
