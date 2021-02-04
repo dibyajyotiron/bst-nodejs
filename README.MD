@@ -1,4 +1,4 @@
-# bst-nodejs v0.0.133
+# bst-nodejs v0.0.136
 
 A Library for BST built with Javascript
 
