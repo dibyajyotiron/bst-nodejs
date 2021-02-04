@@ -158,6 +158,7 @@ maxPathSum
 bottomView
 topView
 isSubPath
+balanceBinarySearchTree
 ```
 
 Some of the methods are already documented using jsdoc. It's a work in progress, consists of most important tree/bst questions.
